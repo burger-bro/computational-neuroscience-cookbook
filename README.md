@@ -1,0 +1,2 @@
+# computational-neuroscience-cookbook
+本仓库收集计算神经生物学领域相关的学习资料和研究进展
