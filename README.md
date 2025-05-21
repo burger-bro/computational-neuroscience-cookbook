@@ -1,5 +1,5 @@
 # computational-neuroscience-cookbook
-## 1 Basics 
+## 1 Basics  
 ### 1.1 Reading List  
 1. **[The Cognitive Neurosciences(Micheal S. Gazzaniga)](books/Gazzaniga.%20The%20Cognitive%20Neurosciences.pdf)**<br>
    For students who are not majoring in psychology backgroung, this book is recommended to suplement some basic knowledge of cognitive neuroscience. This book can be read as a novel giving you a comprehensive understanding of the neural basis of brain cognition.
